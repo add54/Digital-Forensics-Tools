@@ -1,7 +1,9 @@
 # 🕵️‍♂️ Digital Forensics Tools
+
 <div align="center">
-![Digital Forensics TOols](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG90c3c1YmF3bW8xOWdmaGprdXdtNGVqMDNiNmhpN205OTE1OGdrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/44cvOarMUnAfV9oU7A/giphy.gif)
+![Digital Forensics Tools](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG90c3c1YmF3bW8xOWdmaGprdXdtNGVqMDNiNmhpN205OTE1OGdrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/44cvOarMUnAfV9oU7A/giphy.gif)
 </div>
+
 ## A curated list of essential **digital forensics tools** used for investigation, data recovery, and security analysis. These tools help in disk forensics, memory analysis, network monitoring, malware analysis, and more.
 
 ---
